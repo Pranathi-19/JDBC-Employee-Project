@@ -25,7 +25,7 @@ CREATE DATABASE jdbc_db;
 USE jdbc_db;
 
 CREATE TABLE employee (
-    id INT PRIMARY KEY,
-    name VARCHAR(50),
-    salary DOUBLE
+    eId INT PRIMARY KEY,
+    ename VARCHAR(50),
+    deptId INT
 );
