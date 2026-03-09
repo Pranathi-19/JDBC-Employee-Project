@@ -44,21 +44,6 @@ CREATE TABLE employee (
 
 ---
 
-## ⚙️ How to Run
-
-```bash
-javac Retrieve.java
-java Retrieve
-
-javac Update.java
-java Update
-
-javac Delete.java
-java Delete
-```
-
----
-
 ## 🔗 Database Connection
 
 ```
